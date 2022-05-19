@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "95891541068",
+    "firebase_url": "https://service-factor-2fc10-default-rtdb.firebaseio.com",
+    "project_id": "service-factor-2fc10",
+    "storage_bucket": "service-factor-2fc10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95891541068:android:e0c68d2a20711bca6a78e9",
+        "android_client_info": {
+          "package_name": "com.example.servicefactor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95891541068-uu9jo4ltkcnb19t2jbp2jgrulhqp32it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRX8lyYnp86-DbHkI1YCdTimjYe58osXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95891541068-uu9jo4ltkcnb19t2jbp2jgrulhqp32it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
